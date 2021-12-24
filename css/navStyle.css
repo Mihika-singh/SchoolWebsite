@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+     
+    font-family: 'Cairo', sans-serif;
+   
+  }
+ .navi{
+     
+    background-color: rgb(209, 242, 243);
+    margin: 0;
+   
+   width: 100%;
+   display: inline-block;
+}
+ul{
+    margin: 0;
+    padding: 0;
+     
+}
+.LIST{
+  list-style: none;  
+  display: inline-block;
+  padding: 30px;
+  margin-bottom: 0px;
+margin-right: 30px;
+     float: right;
+}
+.LIST a{
+    color: rgb(24, 64, 138);
+    text-decoration: none;
+    background-color: rgb(196, 230, 230);
+    border-radius: 20px;
+   padding: 20px;
+   float: right;
+   
+}
+.LIST a:hover{
+    color: rgb(32, 81, 170);
+    text-decoration: none;
+    background-color: rgb(236, 245, 245);
+    border-radius: 20px;
+   padding: 20px;
+   
+}
